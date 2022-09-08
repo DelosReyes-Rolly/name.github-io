@@ -15,7 +15,7 @@ function MainPage() {
         Student - PUP Taguig
       </div><br/>
       <div className='logo'>
-        <a href="#" className={circleClasses}><FaLinkedin style={iconStyles}/></a>
+        <a href="https://linkedin.com/in/rolly-delos-reyes-b4a42824b" className={circleClasses}><FaLinkedin style={iconStyles}/></a>
         <a href="https://github.com/DelosReyes-Rolly/" target="_blank" rel="noreferrer" className={circleClasses}><FaGithubSquare style={iconStyles}/></a>
         <a href="https://m.me/delosreyesrolly" target="_blank" rel="noreferrer" className={circleClasses}><FaFacebookSquare style={iconStyles}/></a>
       </div>
