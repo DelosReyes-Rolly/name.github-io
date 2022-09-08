@@ -1,0 +1,18 @@
+
+$background: white;
+
+$font: black;
+
+$link: blue;
+
+a:link {color: $font;}
+
+a:visited {color: $font; }
+
+a:hover {color: $link; }
+
+a:active {color: $link; }
+
+details{
+  color: $link;
+}
