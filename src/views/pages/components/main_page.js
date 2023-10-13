@@ -9,7 +9,7 @@ function MainPage() {
     <div className='container'>
       <img className='profile' src={require('./../../../assets/img/shapes.png')} />
       <div className='name'>
-        Rolly A. Delos Reyes
+        Rolly 
       </div><br/>
       <div className='position'>
         Student - PUP Taguig
